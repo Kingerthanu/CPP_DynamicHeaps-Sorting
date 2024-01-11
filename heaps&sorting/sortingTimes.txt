@@ -1,0 +1,56 @@
+Set 1 size 10 dataset 
+Quicksort time - 2035
+Mergesort time - 4963
+Heapsort time - 4449
+
+Set 2 size 100 dataset 
+Quicksort time - 10525
+Mergesort time - 34797
+Heapsort time - 34756
+
+Set 3 size 1000 dataset 
+Quicksort time - 132365
+Mergesort time - 389534
+Heapsort time - 442531
+
+Set 4 size 10000 dataset 
+Quicksort time - 1720585
+Mergesort time - 4469681
+Heapsort time - 5576724
+
+Set 5 size 100000 dataset 
+Quicksort time - 21095307
+Mergesort time - 49473865
+Heapsort time - 68397946
+
+
+
+
+Set 1 size 10 dataset 
+Quicksort time - 1969
+Mergesort time - 4764
+Heapsort time - 4420
+
+Set 2 size 100 dataset 
+Quicksort time - 9995
+Mergesort time - 35048
+Heapsort time - 34217
+
+Set 3 size 1000 dataset 
+Quicksort time - 138930
+Mergesort time - 387804
+Heapsort time - 434243
+
+Set 4 size 10000 dataset 
+Quicksort time - 1799856
+Mergesort time - 4441896
+Heapsort time - 5570927
+
+Set 5 size 100000 dataset 
+Quicksort time - 21566701
+Mergesort time - 50552407
+Heapsort time - 70441967
+
+
+
+
