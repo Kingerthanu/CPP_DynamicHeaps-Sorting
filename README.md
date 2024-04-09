@@ -16,7 +16,7 @@
 
  This C++ File Works With The Terminal And File IO To Write And Document Runtimes Of Various Implemented Sorting Algorithms.
 
-  This Lab Displays Understanding Of Sorting Algorithms And Their 
+  This Project Displays Understanding Of Sorting Algorithms And Their 
   Techniques For Traversal For Comparisons. This Is Done With 3 Different Types
   Of Sorting, Heap, Merge, And Quick Sort. Each Will Be Tested With Varying 
   Input Sizes And Their Computational Time Will Be Compared To Eachother To 
