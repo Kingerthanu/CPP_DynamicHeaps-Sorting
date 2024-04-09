@@ -22,7 +22,7 @@
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="75" height="49"> <img src="https://github.com/Kingerthanu/CPP_DynamicHeaps-Sorting/assets/76754592/bee54769-c9ba-415c-8b5d-49fdfc9bd756" alt="Cornstarch <3" width="75" height="49">
 
 
 
