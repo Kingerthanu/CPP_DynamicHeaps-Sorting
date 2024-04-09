@@ -16,13 +16,13 @@
 
  This C++ File Works With The Terminal And File IO To Write And Document Runtimes Of Various Implemented Sorting Algorithms.
 
-  This lab displays understanding of sorting algorithms and their 
-  techniques for traversal for comparisons. This is done with 3 different types
-  of sorting, heap, merge, and quick sort. Each will be tested with varying 
-  input sizes and their computational time will be compared to eachother to 
-  show how each handles under varying test sizes. This will show how different
-  techniques can do better than others when getting to bigger inputs as well as
-  how comparison-based algorithm's architeture can look like.
+  This Lab Displays Understanding Of Sorting Algorithms And Their 
+  Techniques For Traversal For Comparisons. This Is Done With 3 Different Types
+  Of Sorting, Heap, Merge, And Quick Sort. Each Will Be Tested With Varying 
+  Input Sizes And Their Computational Time Will Be Compared To Eachother To 
+  Show How Each Handles Under Varying Test Sizes. This Will Show How Different
+  Techniques Can Do Better Than Others When Getting To Bigger Inputs As Well As
+  How Comparison-Based Algorithm's Architeture Can Look Like.
 
   This Program Taught Me A Lot About Code Analysis And Big O Notation. It Also Taught Me A Lot About Sorting Algorithms Using My Own Implementations. I Also Didn't Really Experience System IO Like This Before So Reading/Writing To A File Was Something Newer To Me That I Had To Learn.
 
